@@ -1,5 +1,7 @@
 # arch-recon
 
+![Header](images/arch-recon-cover.png)
+
 _ArchRecon_ is an agentic AI proof-of-concept for architectural reconstruction. It comprises two repositories:
 
 - arch-recon-agent — the backend agentic Python system (see https://github.com/arch-recon/arch-recon-agent).
