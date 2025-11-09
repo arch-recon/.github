@@ -4,7 +4,7 @@
 
 - ***arch-recon-agent*** — the backend agentic Python system (see https://github.com/arch-recon/arch-recon-agent).
 - ***chat-ui*** — the Next.js + React frontend chatbot UI (see https://github.com/arch-recon/chat-ui).  
-- ***arch-recon-agent-stack*** — minimal Docker Compose setup to run the Arch Recon agent stack (see https://github.com/arch-recon/arch-recon-agent-stack).  
+- ***arch-recon-stack*** — minimal Docker Compose setup to run the Arch Recon agent stack (see https://github.com/arch-recon/arch-recon-stack).
 
 > [!WARNING]
 > All projects are under development; therefore currently not working.
