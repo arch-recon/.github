@@ -1,5 +1,3 @@
-# arch-recon
-
 ![Header](images/arch-recon-cover.png)
 
 _ArchRecon_ is an agentic AI proof-of-concept for architectural reconstruction. It comprises two repositories:
