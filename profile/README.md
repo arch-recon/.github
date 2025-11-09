@@ -1,6 +1,6 @@
 ![ArchRecon](../img/cover.png)
 
-***ArchRecon*** is an agentic AI proof-of-concept for architectural reconstruction. It comprises two repositories:
+***ArchRecon*** is an agentic AI proof-of-concept for architectural reconstruction. It comprises three repositories:
 
 - ***arch-recon-agent*** — the backend agentic Python system (see https://github.com/arch-recon/arch-recon-agent).
 - ***chat-ui*** — the Next.js + React frontend chatbot UI (see https://github.com/arch-recon/chat-ui).  
